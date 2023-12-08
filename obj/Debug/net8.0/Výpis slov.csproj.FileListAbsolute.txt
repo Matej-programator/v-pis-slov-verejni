@@ -1,0 +1,15 @@
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\bin\Debug\net8.0\Výpis slov.exe
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\bin\Debug\net8.0\Výpis slov.deps.json
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\bin\Debug\net8.0\Výpis slov.runtimeconfig.json
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\bin\Debug\net8.0\Výpis slov.dll
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\bin\Debug\net8.0\Výpis slov.pdb
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.AssemblyInfo.cs
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.dll
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\refint\Výpis slov.dll
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.pdb
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.genruntimeconfig.cache
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\ref\Výpis slov.dll
+C:\Users\matej\OneDrive\plocha\Programovani\dotnet\Výpis slov\obj\Debug\net8.0\Výpis slov.sourcelink.json
